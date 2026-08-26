@@ -130,6 +130,6 @@ fun_fact: "Passionate about understanding how systems work under the hood and ho
 
 <br><br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+<img src="./assets/quote.svg" alt="Rebellion Rose Lyrics" />
 
 </div>

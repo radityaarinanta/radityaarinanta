@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 220" width="700" height="220">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="quoteBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090D13" />
+      <stop offset="50%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#090D13" />
+    </linearGradient>
+
+    <!-- Border Gradient -->
+    <linearGradient id="quoteBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.5" />
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0.5" />
+    </linearGradient>
+
+    <!-- Text Gradient -->
+    <linearGradient id="lyricGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2DD4BF" />
+      <stop offset="50%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#818CF8" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card Background -->
+  <rect x="2" y="2" width="696" height="216" rx="14" fill="url(#quoteBg)" stroke="url(#quoteBorder)" stroke-width="1.5" />
+
+  <!-- Decorative Quote Mark -->
+  <text x="35" y="55" font-family="Georgia, serif" font-size="48" font-weight="bold" fill="#818CF8" opacity="0.4">“</text>
+
+  <!-- Lyrics Content -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-style="italic" font-size="14.5" font-weight="500" fill="url(#lyricGrad)" text-anchor="middle">
+    <text x="350" y="56">Terang datang, gelapnya berlalu</text>
+    <text x="350" y="82">Basuh takut, kepal kekuatan</text>
+    <text x="350" y="108">Menyatu di dalam syahdu</text>
+    <text x="350" y="134">Nada-nada indah, menenangkan</text>
+    <text x="350" y="160">Jiwa ini tenang</text>
+  </g>
+
+  <!-- Author / Artist -->
+  <text x="640" y="195" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" font-style="italic" fill="#818CF8" letter-spacing="0.5">
+    — Rebellion Rose
+  </text>
+</svg>
