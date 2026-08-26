@@ -58,7 +58,7 @@ fun_fact: "Passionate about understanding how systems work under the hood and ho
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-002D62?style=for-the-badge&logo=securityscorecard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
@@ -90,12 +90,8 @@ fun_fact: "Passionate about understanding how systems work under the hood and ho
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radityaarinanta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" alt="Raditya's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radityaarinanta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=radityaarinanta&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=radityaarinanta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=radityaarinanta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" width="48%" />
 </div>
 
 ---
