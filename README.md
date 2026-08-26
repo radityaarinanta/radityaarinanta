@@ -1,18 +1,15 @@
 <div align="center">
   
-  <!-- Banner / Header Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6&height=220&section=header&text=Raditya%20Tantra%20Arinanta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Engineering%20Student%20%7C%20Cybersecurity%20%26%20ML%20Enthusiast&descFontSize=18&descAlignY=60&descAlign=50" width="100%"/>
+  <!-- Native SVG Header (100% Reliable & Fast) -->
+  <img src="./assets/header.svg" alt="Raditya Tantra Arinanta Banner" width="100%" />
 
-  <!-- Typing SVG Animation -->
-  <a href="https://github.com/radityaarinanta">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Cybersecurity+%26+Network+Defense+Enthusiast;Machine+Learning+%26+Deep+Learning+Explorer;Full-Stack+Web+Developer;Building+Secure+%26+Intelligent+Solutions" alt="Typing SVG" />
-  </a>
+  <br><br>
 
-  <!-- Profile Views & Followers Badges -->
+  <!-- Profile Views & Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=radityaarinanta&label=Profile%20Views&color=00b4d8&style=flat-square" alt="Views" />
     <a href="https://github.com/radityaarinanta?tab=followers"><img src="https://img.shields.io/github/followers/radityaarinanta?label=Followers&style=flat-square&color=7928CA&logo=github" alt="Followers" /></a>
-    <a href="https://github.com/radityaarinanta"><img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-success?style=flat-square" alt="Status" /></a>
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-success?style=flat-square" alt="Status" />
   </p>
 
 </div>
@@ -134,8 +131,5 @@ fun_fact: "Passionate about understanding how systems work under the hood and ho
 <br><br>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,5,3,2,0&height=100&section=footer" width="100%"/>
 
 </div>
